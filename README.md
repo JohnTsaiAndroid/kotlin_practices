@@ -1,2 +1,2 @@
 # kotlin_practices
-Leran kotlin step by step.
+Learn kotlin step by step.
